@@ -3,7 +3,6 @@
 
 - 🔭 Currently working on [Mc-Downloader](https://github.com/farizmcpe/Mc-Downloader) — a project to simplify downloading the latest Minecraft PE updates.
 
-- 📫 Reach me at **contactfarizmcpe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
