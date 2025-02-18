@@ -1,79 +1,78 @@
 <h1 align="center">
-  <br>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B93E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=FARIZ+MCPE;Modder+|+Gamer+|+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=FARIZ+MCPE;Modder+%7C+Gamer+%7C+Programmer" alt="Typing SVG" />
 </h1>
 
+
+---
+
+## 🗿 **About Me**
+
+
+
+- 🛠️ *A Programmer Who Breaks Limits*
+- 🎮 *A Gamer Who Owns the Battlefield*
+- 👽 *A Modder Who Builds the Impossible*
+- 🎯 *Obsessed with coding but also lazy*
+- ⚙️ *Building an ultimate tool for getting updates on Minecraft PE* **[Mc-Downloader](https://github.com/farizmcpe/Mc-Downloader)**
+
+---
+
+## 🛠 **Tech Stack**
+
 <p align="center">
-  <img src="https://media.tenor.com/XNcW2TNiKp8AAAAC/hacker-hacking.gif" width="500" height="250">
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,html&theme=dark" />
 </p>
 
 ---
 
-## 💀 WHO AM I?  
+## 📈 **GitHub Analytics**
 
-🚀 **A Developer Who Breaks Limits**  
-🎮 **A Gamer Who Owns the Battlefield**  
-🛠 **A Modder Who Builds the Impossible**  
+<p align="center">
+  <a href="https://github.com/farizmcpe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farizmcpe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizmcpe&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true"/>
+  </a>
+</p>
 
-⚙️ Currently working on **[Mc-Downloader](https://github.com/farizmcpe/Mc-Downloader)** – the **ultimate** tool for getting Minecraft PE updates.  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizmcpe&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
-## ⚡ CONNECT WITH ME  
+## 🛑 **Featured Projects**
+
+<div align="center">
+
+| Project | Description | Stars |
+|:--------:|:-----------:|:-----:|
+| **[Mc-Downloader](https://github.com/farizmcpe/Mc-Downloader)** <br> | An ultimate tool to get Minecraft PE updates. | ![GitHub Stars](https://img.shields.io/github/stars/farizmcpe/Mc-Downloader?style=flat-square&label=%E2%AD%90&color=yellow) |
+| **[ToolMcFRZ](https://github.com/farizmcpe/ToolMcFRZ)** <br> | The most popular & advanced Toolbox mod for Minecraft PE. | ![GitHub Stars](https://img.shields.io/github/stars/farizmcpe/ToolMcFRZ?style=flat-square&label=%E2%AD%90&color=yellow) |
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
 <p align="center">
-  <a href="https://instagram.com/fariz_mcpe_yt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.youtube.com/c/farizmcpe">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/c/farizmcpe" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://instagram.com/fariz_mcpe_yt">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://dsc.gg/toolmcfrz" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://dsc.gg/toolmcfrz">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🖥️ TECH STACK  
 <p align="center">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Code+like+the+world+depends+on+it;Break+limits%2C+build+legends;Game+on%2C+code+harder" alt="Typing SVG" />
 </p>
 
----
-
-## 📊 GITHUB STATS  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farizmcpe&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizmcpe&theme=radical&hide_border=true" alt="GitHub Streak">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farizmcpe&theme=radical">
-</p>
-
----
-
-## 💣 PROJECTS THAT BREAK THE INTERNET  
-🔥 **[Mc-Downloader](https://github.com/farizmcpe/Mc-Downloader)** – The future of Minecraf.  
-🛠 **Undefined** – You're not ready for it.  
-⚡ **[ToolMcFRZ](https://github.com/farizmcpe/ToolMcFRZ)** – The best ever Toolbox mod.  
-
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=600&height=100&lines=THERE+ARE+NO+LIMITS;ONLY+WHAT+YOU+CREATE" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.tenor.com/Ys7zw_8gWigAAAAC/explosion.gif">
+  <img src="https://media.tenor.com/2x0qGBjH-_AAAAAC/retro-grid.gif" width="600">
 </p>
