@@ -47,7 +47,3 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizmcpe&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
-
----
-
-<h3 align="center">🔥 "Keep Modding, Keep Creating!" 🔥</h3>
