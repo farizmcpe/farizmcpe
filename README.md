@@ -53,7 +53,7 @@
 
 ---
 
-## 🌐 **Connect With Me**
+## 🔗 **Connect With Me**
 
 <p align="center">
   <a href="https://www.youtube.com/c/farizmcpe">
