@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm FARIZ MCPE</h1>
   <p>
     <em>Lazy Developer building next-gen apps <br>
-    Turning coffee and curiosity into code. ☕💡</em>
+    Pretty obsessed with coding</em>
   </p>
   <img src="https://komarev.com/ghpvc/?username=farizmcpe&style=flat-square" alt="Profile Views"/>
 </div>
