@@ -36,17 +36,16 @@
 
 <div align="center">
 
-![image1](image1)
+<p align="center">
+  <a href="https://github.com/farizmcpe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farizmcpe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizmcpe&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true"/>
+  </a>
+</p>
 
-<details>
-  <summary>Click for live & detailed stats!</summary>
-  <ul>
-    <li>🔗 <a href="https://github.com/farizmcpe?tab=repositories">Repositories</a></li>
-    <li>📝 <a href="https://github.com/search?q=author%3Afarizmcpe&type=commits">Total Commits: 756+ (see more)</a></li>
-    <li>⭐ <a href="https://github.com/farizmcpe?tab=stars">Total Stars: 4+</a></li>
-    <li>📂 <a href="https://github.com/farizmcpe?tab=repositories">Projects: 10+ public</a></li>
-  </ul>
-</details>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farizmcpe&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak">
+</p>
 
 </div>
 
